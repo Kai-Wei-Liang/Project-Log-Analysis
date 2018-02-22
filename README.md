@@ -139,7 +139,9 @@ See 'Run The Project' below.
 
 While logged into the VM, go to the '/vagrant' directory and then the Project submission folder, and run the following command:
 
-```python3 news.py```
+```
+python3 news.py
+```
 
 **Expected Output:**
 
