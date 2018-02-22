@@ -65,5 +65,5 @@ if __name__ == '__main__':
     print("\nQ3. On which days did more than 1% of requests lead to errors?")
     ans3 = question_3(q3)
     for a in ans3:
-        print("{} -- {:.1f}% errors".format(a[0].strftime("%B %d, %y"), a[1]))
+        print("{} -- {:.1f}% errors".format(a[0].strftime("%B %d, %Y"), a[1]))
     print("\n--- End of Project Output. ---")
